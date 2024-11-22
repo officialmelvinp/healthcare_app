@@ -129,6 +129,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+client_secret.json
+token.json
+test_set_role.py
+scripts/
 
 # Spyder project settings
 .spyderproject
